@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+body {
+    background-image: url("images/fruitbackgroundimage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.mainnav {
+    position: absolute;
+    opacity: 0.6;
+    top: 0;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: 0;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.hrcss{
+    background-color: white;
+    background:black;
+     opacity: 0.6;
+     margin: 0;
+     padding: 0;
+     height: 30px;
+}
+
+.mainheader {
+    top: 0;
+    background-size: cover;
+    left: 0;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+.opnav {
+    text-align: center;
+}
+
+.text {
+    color: white;
+    font-size: 30px;
+    opacity: 2;
+    font-family: 'Righteous', cursive;
+    display: inline-block;
+    text-align: center;
+}
+
+.text3 {
+    color: white;
+    font-size: 20px;
+    opacity: 2;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+
+.optionicons {
+    width: 18px;
+    margin-bottom: -2px;
+    height: 18px;
+}
+
+.options {
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 25px;
+    margin-top: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 40px;
+    opacity: 1;
+}
+
+.options:hover {
+    color: coral;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.ficon {
+    width: 35px;
+    margin-bottom: -5px;
+    height: 35px;
+}
+
+
+.secondnav {
+    background-color: black;
+    position: absolute;
+    background-size: cover;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    left: 0;
+    text-align: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+
+.secondnav2{
+    text-align: center;
+    background-color: black;
+}
+
+.allfruits {
+    text-align: center;
+    
+}
+
+.roundedrectangle {
+    width: 200px;
+    text-align: center;
+    height: 250px;
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+
+.imagecss{
+    width: 130px;
+    display: block;
+    margin: 5px;
+    margin-left: 40px;
+    height: 130px;
+}
+
+
+
+.mainfooter{
+    background-color: black;
+    position: absolute;
+    background-size: cover;
+    opacity: 1;
+    background-repeat: no-repeat;
+    left: 0;
+    text-align: center;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+
+
+.footernav{
+    display: inline-block;
+    margin-top: 55px;
+}
+
+.fimage{
+    width: 60px;
+    cursor: pointer;
+    height: 60px;
+    margin: 20px;
+}
+.a{
+    margin-top: 50px;
+}
